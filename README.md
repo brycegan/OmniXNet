@@ -1,6 +1,6 @@
 # The reposity for **OMNIXNET:HIGH-RESOLUTIONFY-4BRECONSTRUCTIONVIACROSS-SATELLITE SPECTRALMAPPING**
 
-![model](../OMNIXNET/assets/model.png)
+![model](./assets/model.png)
 
 # usage
 
