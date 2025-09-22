@@ -11,7 +11,7 @@ install the requirement dependencies
 
 ## step 2
 
-inplement your own dataset in ./OMNIXNET/data_privider/data_loader.py and register the dataset in ./OMNIXNET/data_privider/data_factory.py
+inplement your own dataset in ./OMNIXNET/data_provider/data_loader.py and register the dataset in ./OMNIXNET/data_provider/data_factory.py
 
 ## step 3
 
